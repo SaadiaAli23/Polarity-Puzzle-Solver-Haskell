@@ -1,6 +1,7 @@
 # Polarity Placement Puzzle (Haskell)
 This project implements a Haskell program to solve a constraint-based puzzle known as the Polarity Puzzle, which involves placing bar magnets (dominoes) on a two-dimensional grid under strict rules about magnetic polarity and adjacency.
-#Puzzle Description
+
+# Puzzle Description
 The Polarity Puzzle requires placing domino-shaped bar magnets on a board. Each magnet has a positive (+) and a negative (-) pole. The magnets can be placed either horizontally or vertically, and the goal is to position them such that the following constraints are satisfied:
 
 1. Pole Count Constraints:
